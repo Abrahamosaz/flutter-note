@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "96398770113",
+    "project_id": "myapp-abraham-flutter",
+    "storage_bucket": "myapp-abraham-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96398770113:android:c4b8990e31088393d3b940",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCp4F15WBFKfni7bTgIDVDw_OBcsjsZ4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
